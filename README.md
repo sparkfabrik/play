@@ -1,2 +1,3 @@
-# play
-Tutto ciò che sta intorno alle iniziative giocose di Spark
+# SparkFabrik - Play
+
+Tutto ciò che ruota attorno alle iniziative ludiche di Spark
