@@ -12,7 +12,10 @@ da cui copiare codice di dubbia provenienza, che velocizzerà il lavoro aumentan
 Scopo del gioco è arrivare a 20 punti prima degli altri developer.
 
 Come prima cosa, ogni developer sceglie il linguaggio in cui è senior:
+
+```
 Javascript (1) | Python (2) | Java (3) | C++ (4) | PHP (5) | Ruby (6)
+```
 
 Il gioco si svolge a turni, durante i quali un developer può fare una delle seguenti azioni:
 **- commit** : aggiungi 1 dado alla riserva
