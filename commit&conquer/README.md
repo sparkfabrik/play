@@ -33,15 +33,15 @@ Una volta fatto il push, il developer svuota la riserva e guadagna punti:
 
 ## Bug
 
-Il developer ottiene un bug per ogni dado che ottiene lo stesso risultato di un altro dado:
+Il developer ottiene un bug per ogni coppia di dadi che ottiene lo stesso risultato di un altro dado:
 ```
 esempioBug = 5 dadi lanciati => 2, 3, 3, 5, 6 => ci sono 2 bug (3, 3)
 ```
 
 Il developer ignora il primo dado che ottiene il punteggio corrispondente al suo linguaggio
-senior, quando calcola i bug:
+senior, ie. Java (3), quando calcola i bug:
 ```
-esempioBugSenior_1 = 5 dadi lanciati => 3, 3, 3, 5, 6 => ci sono 2 bug (3, 3)
+esempioBugSenior_1 = 5 dadi lanciati => 3, 3, 3, 3, 6 => ci sono 2 bug (3, 3)
 
 esempioBugSenior_2 = 5 dadi lanciati => 2, 3, 3, 5, 6 => non ci sono bug
 ```
